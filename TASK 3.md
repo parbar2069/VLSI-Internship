@@ -367,3 +367,4 @@ Binary: `0100 0000 1010 0110 0000 0110 0011 0011`
 
 Code : `funct7 = 0100000 , rs2 = 01010 , rs1 = 01100 , funct3 = 000 , rd =  01100 , Opcode =  011 0011 ` 
 
+# **THAT WAS ALL FOR THE TASK 3 **
